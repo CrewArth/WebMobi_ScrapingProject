@@ -6,6 +6,7 @@ This project scrapes event details from multiple event listing websites. The dat
 The extracted data is saved to a CSV file for further analysis.
 
 **Data Collected**
+
 The script extracts the following information for each event:
 
 Event Name: The name of the event.
@@ -16,6 +17,7 @@ Followers: The number of followers the organizer has.
 Event Link: The URL to the event page.
 
 **Prerequisites**
+
 Before you begin, ensure you have the following installed:
   Python 3.x
   requests library
