@@ -1,4 +1,4 @@
-**Event Listing Web Scraping Project**
+***Event Listing Web Scraping Project***
 
 **Overview**
 
@@ -23,3 +23,24 @@ Before you begin, ensure you have the following installed:
   requests library
   beautifulsoup4 library
 You can install the required libraries using the following command:
+
+pip install requests beautifulsoup4
+
+**Running the Script**
+
+git clone https://github.com/your-username/event-scraping.git
+cd event-scraping
+
+**Usage**
+
+After running the script, the events.csv file will contain the scraped data. You can open this file using any spreadsheet software or import it into a data analysis tool for further examination.
+
+**Troubleshooting**
+
+If you encounter any issues, ensure that:
+
+
+
+The URLs being scraped are accessible and haven't changed their structure.
+You have a stable internet connection.
+All required Python packages are installed correctly.
