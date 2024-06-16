@@ -1,6 +1,9 @@
 **Event Listing Web Scraping Project**
+
 **Overview**
-This project scrapes event details from multiple event listing websites. The data collected includes event titles, dates, prices, organizer names, and follower counts. The extracted data is saved to a CSV file for further analysis.
+
+This project scrapes event details from multiple event listing websites. The data collected includes event titles, dates, prices, organizer names, and follower counts. 
+The extracted data is saved to a CSV file for further analysis.
 
 **Data Collected**
 The script extracts the following information for each event:
